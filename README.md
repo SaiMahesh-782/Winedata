@@ -1,3 +1,10 @@
+
+ You can check the solution by clicking on below link
+https://github.com/SaiMahesh-782/Winedata/assets/82072824/bf04b7b5-dbfd-47b0-8f3c-a7d92c647150
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
